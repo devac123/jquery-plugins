@@ -24,9 +24,14 @@
     <link rel="stylesheet" href="<?php echo $root; ?>/assets/plugins/aos/aos.css">
 
 
+    <!-- -------------------font-awsome---------------- -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.1/css/all.min.css"/>
+
+
     <!-- ---------- bootstrap css ---------- -->
     <link rel="stylesheet" href="<?php echo $root; ?>/assets/css/bootstrap.css">
     <link rel="stylesheet" href="<?php echo $root; ?>/assets/fonts/bootstrap-icons/bootstrap-icons.css">
+
 
 
     <!-- ---------- custom css ---------- -->

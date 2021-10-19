@@ -18,8 +18,5 @@
     $db = "db_pdo";
     $host = "localhost";
     
-
-   
-
     
 ?>
